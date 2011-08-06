@@ -1,0 +1,146 @@
+# Webalizer V2.01-10 Incremental Data - 08/05/2011 11:54:28
+2011 8 5 11 54 28
+27 17 1 8 4 1 7208 24 1 0 0 0
+1 27 27 5 5
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+27 17 7208 1 24 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+27 17 7208 24 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 9 0 1923 1 0 0 0
+/html5/file_api/fin
+0 1 0 25 0 0 0 0
+/html5
+0 1 0 77 0 0 0 0
+/html5/file_api/
+0 2 0 50 0 0 0 0
+/html5/file_api/1
+0 1 0 25 0 0 0 0
+/html5/file_api/2
+0 1 0 25 0 0 0 0
+/html5/file_api/debut
+0 1 0 25 0 0 0 0
+/html5/file_api
+0 1 0 24 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+212.198.251.57
+0 27 17 7208 1 1312545268
+/html5/file_api/debut 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+212.198.251.57
+0 27 17 7208 1 1312545268
+/html5/file_api/debut 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 22
+http://demoland.fabiencanu.fr/
+1 3
+http://demoland.fabiencanu.fr/index.php/html5
+1 1
+http://demoland.fabiencanu.fr/html5
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
+0 27
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
