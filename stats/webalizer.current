@@ -1,15 +1,15 @@
-# Webalizer V2.01-10 Incremental Data - 08/05/2011 11:54:28
-2011 8 5 11 54 28
-27 17 1 8 4 1 7208 24 1 0 0 0
-1 27 27 5 5
+# Webalizer V2.01-10 Incremental Data - 08/08/2011 18:38:42
+2011 8 8 18 38 42
+3143 1631 8 35 7 14 90142884 334 17 0 0 0
+6 504 1169 5 8
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 27 17 7208 1 24 1 0 0
 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
+80 48 4771513 2 39 7 0 0
+3036 1566 85364163 6 271 9 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -41,26 +41,44 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+69 61 19479710 24 0 0
+36 36 16300410 5 0 0
+0 0 0 0 0 0
+29 18 532132 24 0 0
+0 0 0 0 0 0
+55 35 13148186 14 0 0
+36 19 5320700 9 0 0
+549 282 2447623 90 0 0
+675 326 9083309 63 0 0
+1180 436 12014677 65 0 0
+511 415 11287165 38 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-27 17 7208 24 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+3 3 528972 2 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0
 0
 0
-17
+1631
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+1198
+0
+0
+0
+0
+0
+0
+304
 0
 0
 0
@@ -74,37 +92,49 @@
 0
 0
 0
-0
-0
-0
-0
-10
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+2
 0
 0
 0
 0
 0
 # -urls- 
+/web/images/bulle-tools.png
+1 67 0 192990 0 0 0 0
 /
-0 9 0 1923 1 0 0 0
+0 307 0 341350 17 8 0 0
+/web/images/divers.png
+1 91 0 725616 0 0 0 0
 /html5/file_api/fin
 0 1 0 25 0 0 0 0
+/web/images/html5.png
+1 76 0 1629630 0 0 0 0
+/web/images/html5-3-1.jpg
+1 10 0 2659083 0 0 0 0
+/web/css/handheld.css
+0 190 0 8352 0 0 0 0
+/web/css/font/PeacefulDay.ttf
+0 66 0 1228032 0 0 0 0
+/web/images/css3.png
+1 76 0 2050100 0 0 0 0
+/web/images/portique.png
+1 29 0 137010 0 0 0 0
+/web/images/html5-3.jpg
+1 19 45 8542347 0 0 0 0
+/web/images/jeu-2.png
+1 39 0 729045 0 0 0 0
+/web/images/html5-2.jpg
+1 56 0 27231908 0 0 0 0
+/web/images/html5.jpg
+1 52 0 20988614 0 0 0 0
+/web/js/plugins.js
+0 178 0 22854 0 0 0 0
 /html5
-0 1 0 77 0 0 0 0
+0 11 0 9787 0 0 0 0
+/web/images/jeu-1.png
+1 36 0 863200 0 0 0 0
+/web/images/logo.png
+1 133 0 1640460 0 0 0 0
 /html5/file_api/
 0 2 0 50 0 0 0 0
 /html5/file_api/1
@@ -113,32 +143,124 @@
 0 1 0 25 0 0 0 0
 /html5/file_api/debut
 0 1 0 25 0 0 0 0
+/web/css/font/letgothl.ttf
+0 95 0 1890512 0 0 0 0
+/web/images/bulle-html5.png
+1 76 0 315058 0 0 0 0
+/web/images/tools.png
+1 74 0 337958 0 0 0 0
+/web/js/script.js
+0 178 0 3042 0 0 0 0
 /html5/file_api
 0 1 0 24 0 0 0 0
+/web/favicon.ico
+0 37 0 25300 0 0 0 0
+/web/images/panneau.png
+1 123 0 5386044 0 0 0 0
+/web/images/bulle-css3.png
+1 67 0 388042 0 0 0 0
+/web/images/panneau-2.png
+1 4 0 260709 0 0 0 0
+/web/js/libs/modernizr-1.7.min.js
+0 191 0 313480 0 0 0 0
+/web/images/bg-body.jpg
+1 175 0 11823922 0 0 0 0
+/web/css/style.css
+0 190 0 164691 0 0 0 0
+/web/css/main.css
+0 184 0 128169 0 0 0 0
 # End Of Table - urls
 # -sites- (monthly)
+82.255.241.33
+0 74 45 4248605 5 1312752473
+- 0 0
+88.164.42.165
+0 9 6 2117345 1 1312813687
+/ 0 0
+81.64.212.173
+0 6 3 522908 2 1312741938
+- 0 0
+89.80.44.179
+0 15 12 3604255 1 1312811369
+/ 0 0
+90.80.240.82
+0 24 3 9725 1 1312816643
+/ 0 0
 212.198.251.57
-0 27 17 7208 1 1312545268
-/html5/file_api/debut 0 0
+0 3011 1566 79636673 5 1312828722
+/html5 0 0
+128.30.52.65
+0 1 1 844 1 1312816488
+/ 0 0
+128.30.52.71
+0 3 3 2529 1 1312816510
+/ 0 0
 # End Of Table - sites (monthly)
 # -sites- (daily)
+88.164.42.165
+0 9 6 2117345 1 1312813687
+/ 0 0
+89.80.44.179
+0 15 12 3604255 1 1312811369
+/ 0 0
+90.80.240.82
+0 24 3 9725 1 1312816643
+/ 0 0
 212.198.251.57
-0 27 17 7208 1 1312545268
-/html5/file_api/debut 0 0
+0 2984 1549 79629465 4 1312828722
+/html5 0 0
+128.30.52.65
+0 1 1 844 1 1312816488
+/ 0 0
+128.30.52.71
+0 3 3 2529 1 1312816510
+/ 0 0
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 22
+0 318
+http://www.demoland.fabiencanu.fr/
+1 6
+http://demoland.fabiencanu.fr/web/css/main.css
+1 1167
 http://demoland.fabiencanu.fr/
-1 3
+1 1601
+http://demoland.fabiencanu.fr/index.php
+1 21
 http://demoland.fabiencanu.fr/index.php/html5
 1 1
 http://demoland.fabiencanu.fr/html5
-1 1
+1 29
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+0 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
+0 39
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+0 177
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 207
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
+0 58
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+0 122
+W3C_Validator/1.2
+0 4
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
+0 6
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+0 68
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+0 15
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
-0 27
+0 2389
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings
