@@ -1,0 +1,273 @@
+/*
+    Document   : main.css
+    Created on : 08/08/2011
+    Author     : Fabien CANU
+    Description:
+        CSS du site demoland
+*/
+
+
+
+/* __________________________________________________________________________ */
+/*  BASE */
+
+@font-face {
+	font-family : 'letgothl';
+	
+	src : url('font/letgothl.ttf');
+	src : local('☺'), url('font/letgothl-webfont.woff') format('woff'), url('font/letgothl.ttf') format('truetype'), url('font/letgothl-webfont.svg#webfontCooZ7M2s') format('svg');
+	
+	font-weight : normal;
+	font-style  : normal;
+}
+
+@font-face {
+	font-family : 'PeacefulDay';
+	
+	src : url('font/PeacefulDay.ttf');
+	src : local('☺'), url('font/PeacefulDay.woff') format('woff'), url('font/PeacefulDay.ttf') format('truetype'), url('font/PeacefulDay.svg#webfontCooZ7M2s') format('svg');
+	
+	font-weight : normal;
+	font-style  : normal;
+}
+
+body {
+	font : 14px "letgothl", sans-serif;
+    background: url(/web/images/bg-body.jpg) 50% 25% no-repeat;
+	height: 100%;
+	color: #ad6661;
+}
+
+#container {
+    width: 1200px;
+	height: 835px;
+    position: absolute;
+	margin-left: -600px;
+	left: 50%;
+	top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: #E52B38;
+}
+
+
+/* Fin BASE */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+
+/* __________________________________________________________________________ */
+/* HEADER                                                                     */
+header {
+    width: 341px;
+	height: 267px;
+    position: absolute;
+	left: 454px;
+	top: -30px;   
+	background: url(/web/images/logo.png);
+}
+
+header h1 a {
+	display: block;
+    width: 341px;
+	height: 267px;
+	text-indent: -9999px;
+}
+
+header h2 {
+	font : bold 30px "PeacefulDay", sans-serif;    
+	width: 500px;
+	height: 150px;
+    position: absolute;
+	left: -15px;
+	top: 270px;  
+	color: #e8c447;	
+}
+
+header h2  span {
+	color: #ac675f;
+}
+
+
+/* Fin HEADER */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+
+/* __________________________________________________________________________ */
+/* CONTENT HOME */  
+
+/* FOCUS */
+#focus {
+    width: 473px;
+	height: 381px;
+    position: absolute;
+	left: 30px;
+	bottom: 30px;   
+	background: url(/web/images/panneau.png);
+}
+
+#focus h3 {
+	margin: 45px 50px 20px 100px;
+}
+
+#focus p {
+	font: 13px arial !important;
+	margin: 40px 160px 0 100px;
+}
+
+#focus ul {    
+	width: 85px;
+	height: 220px;
+    position: absolute;
+	right: 45px;
+	top: 55px;
+	margin: 0;
+	list-style: none;
+}
+
+#focus ul  li {
+	line-height: 25px;
+}
+
+#focus ul  li a {
+	color: #9c9281;
+}
+
+/* HTML5 */
+#html5 {
+    width: 273px;
+	height: 225px;
+    position: absolute;
+	left: 500px;
+	bottom: 200px;   
+	background: url(/web/images/html5.png);
+	text-indent: -9999px;
+}
+
+#html5 a {
+	display: block;
+    position: absolute;
+    width: 92px;
+	height: 81px;
+	left: 115px;
+	top: -35px;   
+	background: url(/web/images/bulle-html5.png) no-repeat;
+}
+
+/* CSS3 */
+#css3 {
+    width: 366px;
+	height: 207px;
+    position: absolute;
+	right: 100px;
+	bottom: 90px;   
+	background: url(/web/images/css3.png);
+	text-indent: -9999px;
+}
+
+#css3 a {
+	display: block;
+    position: absolute;
+    width: 118px;
+	height: 112px;
+	left: 150px;
+	top: -75px;   
+	background: url(/web/images/bulle-css3.png) no-repeat;
+}
+
+/* TOOLS */
+#tools {
+    width: 126px;
+	height: 82px;
+    position: absolute;
+	right: 320px;
+	bottom: 280px;   
+	background: url(/web/images/tools.png);
+	text-indent: -9999px;
+}
+
+#tools a {
+	display: block;
+    position: absolute;
+    width: 92px;
+	height: 81px;
+	left: -30px;
+	top: 30px;   
+	background: url(/web/images/bulle-tools.png) no-repeat;
+}
+
+/* DIVERS */
+#divers {
+    width: 177px;
+	height: 128px;
+    position: absolute;
+	right: 520px;
+	bottom: 100px;   
+	background: url(/web/images/divers.png);
+}
+
+/* Fin CONTENT */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+
+/* __________________________________________________________________________ */
+/* CONTENT INTER */  
+
+/* FOCUS */
+#info {
+    width: 437px;
+	height: 383px;
+    position: absolute;
+	right: 75px;
+	bottom: 85px;   
+	background: url(/web/images/panneau-2.png);
+}
+
+#info h3 {
+	margin: 45px 50px 20px 100px;
+}
+
+#info p {
+	font: 13px arial !important;
+	margin: 40px 160px 0 100px;
+}
+
+/* Fin CONTENT */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+/* __________________________________________________________________________ */
+/* FOOTER */
+
+footer {
+	width: 600px;
+	height: 50px;
+	position: absolute;
+	left:500px;
+	bottom: 30px;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+/* Fin FOOTER */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+
+/* __________________________________________________________________________ */
+/* DIVERS */
+
+/* Fin DIVERS */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
