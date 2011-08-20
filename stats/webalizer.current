@@ -1,7 +1,7 @@
-# Webalizer V2.01-10 Incremental Data - 08/08/2011 18:38:42
-2011 8 8 18 38 42
-3143 1631 8 35 7 14 90142884 334 17 0 0 0
-6 504 1169 5 8
+# Webalizer V2.01-10 Incremental Data - 08/17/2011 14:57:17
+2011 8 17 14 57 17
+7107 3124 12 68 19 23 136692569 926 44 0 0 0
+2 158 1169 5 17
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -10,15 +10,15 @@
 0 0 0 0 0 0 0 0
 80 48 4771513 2 39 7 0 0
 3036 1566 85364163 6 271 9 0 0
+523 177 2004112 2 126 3 0 0
+465 223 3205066 2 84 5 0 0
+1815 458 15723225 1 213 3 0 0
+417 196 3330180 2 60 3 0 0
+145 76 1440907 2 20 3 0 0
+179 86 1458105 1 32 4 0 0
 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
+63 8 14309 1 9 1 0 0
+357 269 19373781 2 48 5 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -41,26 +41,26 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-69 61 19479710 24 0 0
-36 36 16300410 5 0 0
-0 0 0 0 0 0
-29 18 532132 24 0 0
-0 0 0 0 0 0
-55 35 13148186 14 0 0
-36 19 5320700 9 0 0
-549 282 2447623 90 0 0
-675 326 9083309 63 0 0
-1180 436 12014677 65 0 0
-511 415 11287165 38 0 0
+275 120 20514288 51 0 0
+137 78 17061666 19 0 0
+363 87 1326491 32 0 0
+1070 288 4377247 145 0 0
+530 211 18386081 84 0 0
+770 393 20148905 124 0 0
+279 218 16532759 40 0 0
+685 329 2907553 109 0 0
+760 345 9119209 89 0 0
+1657 595 13604848 177 0 0
+536 425 11302588 48 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 3 3 528972 2 0 0
+42 32 881962 6 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
 0
 0
 0
-1631
+3124
 0
 0
 0
@@ -71,28 +71,28 @@
 0
 0
 0
-1198
-0
-0
-0
-0
-0
-0
-304
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+3114
 0
 0
 2
+0
+0
+0
+842
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
 0
 0
 0
@@ -100,167 +100,275 @@
 0
 # -urls- 
 /web/images/bulle-tools.png
-1 67 0 192990 0 0 0 0
+1 88 0 242616 0 0 0 0
 /
-0 307 0 341350 17 8 0 0
+0 364 0 419839 32 9 0 0
+/web/images/demo/sandbox/divers/image-background-relative/baseline2.png
+1 20 0 487647 0 0 0 0
+/html5/file_api/file-api-poster
+0 8 0 7591 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/bg-3.jpg
+1 8 0 659195 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/baseline.jpg
+1 4 0 123408 0 0 0 0
+/web/images/bg-body-demo.gif
+1 218 0 6671525 0 0 0 0
+/web/images/test.jpg
+1 17 0 10146630 0 0 0 0
 /web/images/divers.png
-1 91 0 725616 0 0 0 0
+1 112 0 861669 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/bg-2.jpg
+1 27 0 3534828 0 0 0 0
 /html5/file_api/fin
-0 1 0 25 0 0 0 0
+0 2 0 50 0 0 0 0
 /web/images/html5.png
-1 76 0 1629630 0 0 0 0
+1 97 0 2015595 0 0 0 0
 /web/images/html5-3-1.jpg
 1 10 0 2659083 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/footer.png
+1 30 0 79596 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/bg-1.jpg
+1 33 0 11041839 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/logo.jpg
+1 4 0 6944 0 0 0 0
+/html5/file_api/TROUDUCUL
+0 1 0 25 0 0 0 0
 /web/css/handheld.css
-0 190 0 8352 0 0 0 0
+0 291 0 9984 0 0 0 0
+/html5/balises
+0 3 0 2451 1 1 0 0
 /web/css/font/PeacefulDay.ttf
-0 66 0 1228032 0 0 0 0
+0 142 0 1705600 0 0 0 0
 /web/images/css3.png
-1 76 0 2050100 0 0 0 0
+1 97 0 2535650 0 0 0 0
 /web/images/portique.png
 1 29 0 137010 0 0 0 0
+/html5/file_api/file-api-manipulation-image
+0 11 0 10995 0 0 0 0
 /web/images/html5-3.jpg
-1 19 45 8542347 0 0 0 0
+1 19 0 8542347 0 0 0 0
 /web/images/jeu-2.png
 1 39 0 729045 0 0 0 0
+/web/js/libs/canvas2image.js
+0 4 0 3558 0 0 0 0
 /web/images/html5-2.jpg
 1 56 0 27231908 0 0 0 0
+/web/css/demo.css
+0 229 0 100432 0 0 0 0
 /web/images/html5.jpg
 1 52 0 20988614 0 0 0 0
 /web/js/plugins.js
-0 178 0 22854 0 0 0 0
+0 481 0 44829 0 0 0 0
 /html5
-0 11 0 9787 0 0 0 0
+0 120 0 161958 1 0 0 0
 /web/images/jeu-1.png
 1 36 0 863200 0 0 0 0
+/html5/file_api//file-api-exif
+0 11 0 11069 0 0 0 0
 /web/images/logo.png
-1 133 0 1640460 0 0 0 0
+1 212 0 2023234 0 0 0 0
 /html5/file_api/
 0 2 0 50 0 0 0 0
 /html5/file_api/1
 0 1 0 25 0 0 0 0
 /html5/file_api/2
 0 1 0 25 0 0 0 0
+/html5/html5/file_api/file-api-manipulation-image
+0 1 0 1198 0 0 0 0
 /html5/file_api/debut
 0 1 0 25 0 0 0 0
 /web/css/font/letgothl.ttf
-0 95 0 1890512 0 0 0 0
+0 182 0 2472208 0 0 0 0
+/web/images/bg-body-demo2.png
+1 198 0 70005 0 0 0 0
 /web/images/bulle-html5.png
-1 76 0 315058 0 0 0 0
+1 97 0 389677 0 0 0 0
+/web/images/logo-icon.png
+1 192 0 85104 0 0 0 0
 /web/images/tools.png
-1 74 0 337958 0 0 0 0
+1 95 0 420164 0 0 0 0
+/html5/websockets
+0 7 0 10782 0 0 0 0
 /web/js/script.js
-0 178 0 3042 0 0 0 0
+0 481 0 5967 0 0 0 0
 /html5/file_api
-0 1 0 24 0 0 0 0
+0 70 0 78681 2 3 0 0
 /web/favicon.ico
-0 37 0 25300 0 0 0 0
+0 54 0 37950 0 0 0 0
+/web/images/html5-full.png
+1 64 0 1087970 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/header.png
+1 28 0 193490 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/menu.png
+1 28 0 1373966 0 0 0 0
 /web/images/panneau.png
-1 123 0 5386044 0 0 0 0
+1 144 0 6221748 0 0 0 0
+/web/images/sprite-bulles.png
+1 62 0 959145 0 0 0 0
+/html5/file_api/file-api-modifier-image
+0 189 0 406392 4 5 0 0
 /web/images/bulle-css3.png
-1 67 0 388042 0 0 0 0
+1 88 0 490759 0 0 0 0
+/sandbox/image_background_relative
+0 37 0 31055 2 2 0 0
 /web/images/panneau-2.png
-1 4 0 260709 0 0 0 0
+1 79 0 1564254 0 0 0 0
 /web/js/libs/modernizr-1.7.min.js
-0 191 0 313480 0 0 0 0
+0 289 0 379864 0 0 0 0
+/html5/file_api/file-api
+0 34 0 58901 1 1 0 0
 /web/images/bg-body.jpg
-1 175 0 11823922 0 0 0 0
+1 272 0 14608594 0 0 0 0
+/web/js/libs/base64.js
+0 4 0 1884 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/baseline.png
+1 29 0 605483 0 0 0 0
+/tools
+0 6 0 6650 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/header.jpg
+1 4 0 35520 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/menu.jpg
+1 4 0 130720 0 0 0 0
 /web/css/style.css
-0 190 0 164691 0 0 0 0
+0 291 0 196872 0 0 0 0
 /web/css/main.css
-0 184 0 128169 0 0 0 0
+0 308 0 232996 0 0 0 0
+/web/images/demo/sandbox/divers/image-background-relative/logo.png
+1 29 0 182835 0 0 0 0
 # End Of Table - urls
 # -sites- (monthly)
 82.255.241.33
 0 74 45 4248605 5 1312752473
 - 0 0
+82.255.65.180
+0 179 86 1458105 4 1313343083
+- 0 0
+2.14.250.164
+0 73 35 889627 2 1313236330
+- 0 0
 88.164.42.165
 0 9 6 2117345 1 1312813687
-/ 0 0
+- 0 0
 81.64.212.173
 0 6 3 522908 2 1312741938
 - 0 0
 89.80.44.179
-0 15 12 3604255 1 1312811369
-/ 0 0
+0 48 37 4316919 2 1312978922
+- 0 0
+2.2.173.188
+0 80 31 634420 1 1312912468
+- 0 0
 90.80.240.82
-0 24 3 9725 1 1312816643
-/ 0 0
+0 35 12 718060 2 1313590270
+/sandbox/image_background_relative 0 0
 212.198.251.57
-0 3011 1566 79636673 5 1312828722
-/html5 0 0
+0 6485 2800 120349965 21 1313593037
+/sandbox/image_background_relative 0 0
+82.252.32.89
+0 114 73 1433242 2 1313248302
+- 0 0
 128.30.52.65
 0 1 1 844 1 1312816488
-/ 0 0
+- 0 0
 128.30.52.71
 0 3 3 2529 1 1312816510
-/ 0 0
+- 0 0
 # End Of Table - sites (monthly)
 # -sites- (daily)
-88.164.42.165
-0 9 6 2117345 1 1312813687
-/ 0 0
-89.80.44.179
-0 15 12 3604255 1 1312811369
-/ 0 0
 90.80.240.82
-0 24 3 9725 1 1312816643
-/ 0 0
+0 11 9 708335 1 1313590270
+/sandbox/image_background_relative 0 0
 212.198.251.57
-0 2984 1549 79629465 4 1312828722
-/html5 0 0
-128.30.52.65
-0 1 1 844 1 1312816488
-/ 0 0
-128.30.52.71
-0 3 3 2529 1 1312816510
-/ 0 0
+0 346 260 18665446 4 1313593037
+/sandbox/image_background_relative 0 0
 # End Of Table - sites (daily)
 # -referrers- 
+http://demoland.fabiencanu.fr/html5/file_api/file-api-manipulation-image
+1 21
+http://demoland.fabiencanu.fr/sandbox/image_background_relative
+1 258
 - (Direct Request)
-0 318
+0 704
 http://www.demoland.fabiencanu.fr/
 1 6
+http://demoland.fabiencanu.fr/html5/file_api
+1 225
+http://demoland.fabiencanu.fr/html5/balises
+1 8
 http://demoland.fabiencanu.fr/web/css/main.css
-1 1167
+1 1929
 http://demoland.fabiencanu.fr/
-1 1601
+1 1984
+http://demoland.fabiencanu.fr/tools
+1 13
+http://demoland.fabiencanu.fr/html5/file_api//file-api-exif
+1 29
+http://demoland.fabiencanu.fr/html5/file_api/file-api
+1 103
+http://demoland.fabiencanu.fr/html5/file_api/file-api-poster
+1 13
 http://demoland.fabiencanu.fr/index.php
-1 21
+1 29
 http://demoland.fabiencanu.fr/index.php/html5
 1 1
+http://demoland.fabiencanu.fr/web/css/demo.css
+1 366
+http://demoland.fabiencanu.fr/html5/file_api/file-api-modifier-image
+1 721
 http://demoland.fabiencanu.fr/html5
-1 29
+1 667
+http://demoland.fabiencanu.fr/html5/html5/file_api/file-api-manipulation-image
+1 3
+http://demoland.fabiencanu.fr/html5/websockets
+1 27
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1
+0 73
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
 0 9
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
-0 39
+0 100
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
-0 177
+0 282
 Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
 0 24
 Mozilla/5.0 (Windows; U; Windows NT 6.1; fr-FR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
-0 207
+0 258
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
 0 58
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
 0 122
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0) Gecko/20100101 Firefox/6.0
+0 336
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 80
 W3C_Validator/1.2
 0 4
 Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
 0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
+0 322
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 7
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30
 0 19
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
 0 6
 Mozilla/5.0 (Windows NT 6.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
-0 68
+0 291
+Windows-Live-Social-Object-Extractor-Engine/1.0
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; fr; rv:1.9.2.20) Gecko/20110803 Firefox/3.6.20
+0 11
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
-0 15
+0 48
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
-0 2389
+0 4746
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1
+0 70
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1
+0 233
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings

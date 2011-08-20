@@ -20,7 +20,7 @@
 	<link rel="stylesheet" media="handheld" href="/web/css/handheld.css" />
 	
 	<!-- Styles -->
-	<?php foreach( $header['styles'] as $style ) : ?>
+	<?php foreach( $styles as $style ) : ?>
 	<link rel="stylesheet" href="/web/css/<?=$style;?>" />
 	<?php endforeach;?>
 	

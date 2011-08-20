@@ -109,7 +109,7 @@ header h2  span {
 	height: 381px;
     position: absolute;
 	left: 30px;
-	bottom: 30px;   
+	bottom: 43px;   
 	background: url(/web/images/panneau.png);
 }
 
@@ -203,25 +203,7 @@ header h2  span {
 	background: url(/web/images/bulle-tools.png) no-repeat;
 }
 
-/* DIVERS */
-#divers {
-    width: 177px;
-	height: 128px;
-    position: absolute;
-	right: 520px;
-	bottom: 100px;   
-	background: url(/web/images/divers.png);
-}
-
-/* Fin CONTENT */
-/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
-
-
-
-/* __________________________________________________________________________ */
-/* CONTENT INTER */  
-
-/* FOCUS */
+/* INFO */
 #info {
     width: 437px;
 	height: 383px;
@@ -240,6 +222,84 @@ header h2  span {
 	margin: 40px 160px 0 100px;
 }
 
+/* DIVERS */
+#divers {
+    width: 177px;
+	height: 128px;
+    position: absolute;
+	right: 520px;
+	bottom: 100px;   
+	background: url(/web/images/divers.png);
+}
+
+/* Fin CONTENT */
+/* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
+
+
+
+/* __________________________________________________________________________ */
+/* CONTENT INTER */  
+
+/* HTML5 */
+#content {    
+	width: 680px;
+	height: 383px;
+    position: absolute;
+	left: 0;
+	bottom: 85px;   
+}
+
+.content-html5 {
+	background: url(/web/images/html5-full.png) 150px 20px no-repeat;
+}
+
+#content ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+#content li.file-api {position: absolute;	right: 185px; top: 35px;}
+#content li.websockets {position: absolute;	right: 230px; bottom: 20px;}
+#content li.canvas {position: absolute;	right: 18px; bottom: 51px;}
+#content li.forms {position: absolute;	left: 105px; top: 240px;}
+#content li.balises {position: absolute;	left: 210px; bottom: -5px;}
+#content li.web-storage {position: absolute;	left: 165px; top: 50px;}
+
+#content li a {
+	display: block;
+	padding-top: 45px;
+}
+
+/* Recalage pour les mauvais centrage */
+
+#content li.web-storage a {padding-top: 35px;}
+#content li.websockets a {padding-top: 35px;}
+
+/* Bulle html5 */
+
+
+/* INFO DEMO */
+#info-demo {
+    width: 325px;
+	height: 310px;
+    position: absolute;
+	right: 75px;
+	bottom: 85px;   
+	background: url(/web/images/panneau-2.png) no-repeat;
+	padding: 45px 60px 20px 50px;
+}
+
+#info-demo h3 {
+	/*margin: 45px 60px 20px 50px;*/
+}
+
+#info-demo p {
+	font: 13px arial !important;
+	margin: 20px 0;
+}
+
 /* Fin CONTENT */
 /* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */
 
@@ -248,12 +308,12 @@ header h2  span {
 /* FOOTER */
 
 footer {
-	width: 600px;
-	height: 50px;
-	position: absolute;
-	left:500px;
-	bottom: 30px;
-	color: white;
+    bottom: 0;
+    color: white;
+    height: 50px;
+    left: 400px;
+    position: absolute;
+    width: 600px;
 }
 
 footer a {
@@ -267,6 +327,22 @@ footer a {
 
 /* __________________________________________________________________________ */
 /* DIVERS */
+
+/* Sprite bulle */
+.sprite-bulle-1{ background: url(/web/images/sprite-bulles.png) 0 0 no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-2{ background: url(/web/images/sprite-bulles.png) 0 -116px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-3{ background: url(/web/images/sprite-bulles.png) 0 -232px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-4{ background: url(/web/images/sprite-bulles.png) 0 -348px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-5{ background: url(/web/images/sprite-bulles.png) 0 -464px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-6{ background: url(/web/images/sprite-bulles.png) 0 -580px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-7{ background: url(/web/images/sprite-bulles.png) 0 -696px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-8{ background: url(/web/images/sprite-bulles.png) 0 -812px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-9{ background: url(/web/images/sprite-bulles.png) 0 -928px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-10{ background: url(/web/images/sprite-bulles.png) 0 -1044px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-11{ background: url(/web/images/sprite-bulles.png) 0 -1160px no-repeat; width: 107px; height: 106px; } 
+.sprite-bulle-12{ background: url(/web/images/sprite-bulles.png) 0 -1276px no-repeat; width: 107px; height: 106px; } 
+
+
 
 /* Fin DIVERS */
 /* ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ */

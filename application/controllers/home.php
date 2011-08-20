@@ -2,18 +2,11 @@
 class Home extends CI_Controller {
 
 	public function index() {
-	
-	
+			
 		//
-		// Préparation des données des vues
-		//
-		$data = array();
-		
-		// Header
-		$data['header'] = array();
-		
-			// Header - styles
-			$data['header']['styles'][] = 'main.css';
+		// Définition de data
+		//		
+		$data = $this->getBasicData();
 		
 		//
 		// Chargement des vues
@@ -21,6 +14,36 @@ class Home extends CI_Controller {
 		$this->load->view('commons/header.php', $data);
 		$this->load->view('home/home.php');
 		$this->load->view('commons/footer.php');
+	
+	}
+	
+	
+	/**
+	 * Definition des paramètres data de base 
+	 *
+	*/
+	protected function getBasicData() {
+	
+		$data = array();
+
+		//
+		// Styles
+		//
+		$data['styles'] = array(
+			'main.css'
+		);
+		
+		//
+		// Scripts
+		//
+	
+	
+		//
+		// Meta
+		//
+		
+		
+		return $data;
 	
 	}
 
